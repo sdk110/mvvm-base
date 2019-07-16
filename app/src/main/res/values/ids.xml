@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_activity_search_text_view"  type="id"/>
+    <item name="main_activity_search_button"     type="id"/>
+    <item name="main_activity_search_button_1"   type="id"/>
+    <item name="main_activity_search_recycler_view" type="id"/>
+    <item name="test_item_img"      type="id"/>
+    <item name="test_item_text"     type="id"/>
+</resources>
